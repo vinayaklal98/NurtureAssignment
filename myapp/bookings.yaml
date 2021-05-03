@@ -1,0 +1,36 @@
+- 1:
+    Advisor:
+      advisorid: 3
+      advisorname: Advisor3
+      advisorpic: Advisor3_Image
+      booking_id: 1
+      booking_time: 2/5/2021 10:34
+    User:
+      email: user2@xyz.com
+      password: user2@test
+      userid: 2
+      username: User2
+- 2:
+    Advisor:
+      advisorid: 1
+      advisorname: Advisor1
+      advisorpic: Advisor1_Image
+      booking_id: 2
+      booking_time: 3/5/2021 14:34
+    User:
+      email: user1@xyz.com
+      password: user1@test
+      userid: 1
+      username: User1
+- 3:
+    Advisor:
+      advisorid: 1
+      advisorname: Advisor1
+      advisorpic: Advisor1_Image
+      booking_id: 3
+      booking_time: 3/5/2021 16:34
+    User:
+      email: user2@xyz.com
+      password: user2@test
+      userid: 2
+      username: User2

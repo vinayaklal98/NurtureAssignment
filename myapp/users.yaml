@@ -1,0 +1,12 @@
+- email: user1@xyz.com
+  password: user1@test
+  userid: 1
+  username: User1
+- email: user2@xyz.com
+  password: user2@test
+  userid: 2
+  username: User2
+- email: user3@xyz.com
+  password: user3@test
+  userid: 3
+  username: User3
